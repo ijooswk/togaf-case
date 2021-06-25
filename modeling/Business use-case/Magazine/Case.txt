@@ -1,0 +1,10 @@
+Case
+
+High-level:
+  We have moderator, author, reader as users for the magazine. Authors write article and multiple article can be a single magazine by moderator.
+  The moderator can allow the magazine to have a comment from reader and reader can read the magazine once it's published.
+
+Use cases:
+  1. Author will receive the email for the request to write the article
+  2. Moderator can publish the magazine and allow readers to comment on an article
+  3. Comments will be part of article as they will be attached below the bottom of article
